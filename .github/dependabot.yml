@@ -7,7 +7,7 @@ version: 2
 registries:
   github-octocat:
     type: git
-    derectory: "/"
+    derectory: "#/"
     url: https://github.com/Bayu12345677/Matahari-otp
     username: Bayu12345677
     password: ${{secrets.MY_GITHUB_PERSONAL_TOKEN}}
