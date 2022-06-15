@@ -13,7 +13,7 @@ Free Sms using Rest api Otp Matahari
 <details open>
   <summary><strong> Install Git </strong></summary>
 
-  ```python
+  ```php
   $ git clone https://github.com/Bayu12345677/Matahari-otp
   $ nano cfg.sh
    - ubah code country bebas indo:+62
@@ -25,23 +25,23 @@ Free Sms using Rest api Otp Matahari
 <details open>
   <summary><strong> Run script </strong></summary>
 
-  ```python
+  ```php
   $ make setup
   $ make run
   ```
   </details>
 
 - Creator 
-```
+```bash
  - Polygon ( Bayu )
  - Xenzi Gan'z ( Aldo )
 ```
 
 - Fungsi
-```
+```bash
  - Mengirimkan pesan SMS dengan format nama manual 
  - Support All Country 
 ```
 
 [![](https://img.shields.io/static/v1?logo=youtube&label=subscribe&message=XENZI%20GANZ&color=green)](https://youtube.com/channel/UC7ygjAbDjuiN76PqOlJm40A)
-[![](https://img.shields.io/static/v1?logo=youtube&label=subscribe&message=Pejuang%20Kentang&color=green)](https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg)
+[![](https://img.shields.io/static/v1?logo=youtube&label=subscribe&message=Pejuang%20Kentang&color=red)](https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg)
