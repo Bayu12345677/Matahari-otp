@@ -15,6 +15,7 @@ Free Sms using Rest api Otp Matahari
 
   ```php
   $ git clone https://github.com/Bayu12345677/Matahari-otp
+  $ cd Matahari-otp
   $ nano cfg.sh
    - ubah code country bebas indo:+62
    - ubah nomor target di awali 089629739372
