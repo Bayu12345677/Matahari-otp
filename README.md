@@ -3,7 +3,7 @@ Free Sms using Rest api Otp Matahari
 <details open>
   <summary><strong> Install Package </strong></summary>
 
-  ```bash
+  ```python
   $ pkg install bash
   $ pkg install git
   $ pkg install nano
@@ -16,7 +16,9 @@ Free Sms using Rest api Otp Matahari
   ```python
   $ git clone https://github.com/Bayu12345677/Matahari-otp
   $ nano cfg.sh
-   - ubah 
+   - ubah code country bebas indo:+62
+   - ubah nomor target di awali 089629739372
+   - kalian save klik CTRL + X + Y + Enter
   ```
   </details>
 
