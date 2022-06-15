@@ -12,6 +12,7 @@ Free Sms using Rest api Otp Matahari
 
 <details open>
   <summary><strong> Install Git </strong></summary>
+
   ```bash
   $ git clone https://github.com/Bayu12345677/Matahari-otp
   ```
@@ -19,6 +20,7 @@ Free Sms using Rest api Otp Matahari
 
 <details open>
   <summary><strong> Run script </strong></summary>
+
   ```bash
   $ make setup
   $ make run
