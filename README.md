@@ -3,7 +3,7 @@ Free Sms using Rest api Otp Matahari
 <details open>
   <summary><strong> Install Package </strong></summary>
 
-  ```python
+  ```php
   $ pkg install bash
   $ pkg install git
   $ pkg install nano
