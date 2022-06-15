@@ -4,8 +4,9 @@
 # https://docs.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
 
 version: 2
-updates:
-  - package-ecosystem: "git" # See documentation for possible values
-    directory: "/" # Location of package manifests
-    schedule:
-      interval: "daily"
+registries:
+  github-octocat:
+    type: git
+    url: https://github.com/Bayu12345677/Matahari-otp
+    username: Bayu12345677
+    password: ${{secrets.MY_GITHUB_PERSONAL_TOKEN}}
